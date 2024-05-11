@@ -1,0 +1,43 @@
+.choose-button{
+    border: 1px solid;
+    padding: 5px 20px 5px 20px;
+    background-color:white;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 2px;
+
+}
+
+.choose-button.active {
+    background-color: #152744;
+    color: white; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+input[type=radio] {
+    accent-color: blue;
+ }
+
+.user-inputs{
+    margin: 20px 0 0 100px;
+}
+
+.input-box{
+    margin:20px 0px 15px 90px;
+}
+
+
+label{
+    font-weight: bold;
+}
+
+
+.search-button{
+    background-color: #152744;
+    color: white;
+}
+
+.extra-buttons{
+    margin: 15px 0 13px;
+}

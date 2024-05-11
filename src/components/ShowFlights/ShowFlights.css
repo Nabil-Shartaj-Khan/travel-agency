@@ -1,0 +1,5 @@
+/* for odd childs in table the color is different */
+.table-holder table tbody tr:nth-child(even) {
+    background-color: #dadada86; 
+    color: #333; 
+}

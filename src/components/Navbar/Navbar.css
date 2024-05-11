@@ -1,0 +1,19 @@
+.nav-list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.main-div{  
+    color: white;
+    padding: 20px 20px;
+}
+
+.nav-hold {
+    background-color: #152744;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a:hover{
+    color: antiquewhite;
+}
